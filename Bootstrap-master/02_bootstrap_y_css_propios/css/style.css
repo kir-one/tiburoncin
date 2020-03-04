@@ -1,0 +1,19 @@
+h1 {
+	font-size: 50px;
+	color: #F33;
+}
+p {
+	font-size: 12px;
+	color: #EE3356;
+}
+p.may {
+	text-transform: uppercase;
+}
+p.min {
+	text-transform: lowercase;
+	color: green;
+}
+p.v {
+	font-variant: small-caps;
+	color: blue;
+}
